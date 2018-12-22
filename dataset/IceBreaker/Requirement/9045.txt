@@ -1,0 +1,1 @@
+A list of trucks in the fleet shall be maintained.

@@ -1,0 +1,1 @@
+provide create hardcopy electronic report summary procedures medications labs immunizations allergies vital signs

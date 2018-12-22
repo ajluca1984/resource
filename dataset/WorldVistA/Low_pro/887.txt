@@ -1,0 +1,1 @@
+provide configure sets default details

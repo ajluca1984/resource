@@ -1,0 +1,1 @@
+﻿ handling general preferences generic preferences add preference general insert generic preferences edit general preference modify general preference delete general preference get general preference 

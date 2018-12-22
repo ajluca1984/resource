@@ -1,0 +1,1 @@
+current position map controller update model current map view current position set current position map

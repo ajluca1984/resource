@@ -1,0 +1,1 @@
+ get Truck ID  get Type  driver  set Driver  get Driver  material Capacity  get Material Capacity  set Truck ID  Truck 343  set Type  set Material Capacity  set Distance Capability  distance Capability  type  get Distance Capability  maintenance Date  set Maintenance Date  get Maintenance Date  update Dateof Repair  add Driver  truck ID

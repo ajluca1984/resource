@@ -1,0 +1,1 @@
+provide view patient demographics allergies adverse reactions postings cautions warnings allergies advance directives clinical reminders current medications appointments

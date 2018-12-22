@@ -1,0 +1,1 @@
+A WeatherStation shall be validated through its unique WeatherStation identifier.

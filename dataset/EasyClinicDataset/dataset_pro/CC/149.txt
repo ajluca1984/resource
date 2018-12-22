@@ -1,0 +1,1 @@
+cartellaclinicamanager description task manage data medical records patient attributes access description methods getcartellaclinica access description clinic filder patient getdettagli access description load details visit getdatipaziente access description task finding registry data patient

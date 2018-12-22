@@ -1,0 +1,1 @@
+The system shall provide a summary report of weather conditions over a specified period of time.

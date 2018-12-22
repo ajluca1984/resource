@@ -1,0 +1,1 @@
+provide identify provide access view print patient data previous admissions office encounters document type identify person reason access

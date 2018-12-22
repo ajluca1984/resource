@@ -1,0 +1,1 @@
+delete folders summary deletes folders messages actor pine precondition logs pine ucf description displays listing mail messages views listing folders selects folder prompts delete checks folder empty issues warning folder empty choose delete folder folder list chooses delete deletes folder post condition deletes folder selected

@@ -1,0 +1,1 @@
+WeatherStations shall be removed from the system.

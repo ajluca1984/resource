@@ -1,0 +1,1 @@
+ set WorkOrder ID Issue break down alert  GPSObserver 336  handle Breakdown  get Current Position  set Current Position  current Position  WorkOrder ID  get Final Destination  get WorkOrder ID  truck ID  set Truck ID  get Truck ID  set Observe Truck  starting Position  set Starting Position  get Starting Position  final Destination  set Final Destination  handle Done

@@ -1,0 +1,1 @@
+﻿ managing the menu menu adds a menu insert menu modify menu delete menu cancel menu get menu menu of a refreshment  

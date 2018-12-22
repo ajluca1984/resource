@@ -1,0 +1,1 @@
+Data from the new WeatherStation shall be incorporated into the weather forecast for its surrounding area.

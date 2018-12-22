@@ -1,0 +1,1 @@
+partial transmission weather data

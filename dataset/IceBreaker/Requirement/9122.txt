@@ -1,0 +1,1 @@
+When the WorkOrder has been completed it shall be designated as complete.

@@ -1,0 +1,1 @@
+ material Type  truck Condition  capacity  get Capacity  set Material Type  get Material Type  truck Plate NUmber  set Truck Plate NUmber  get Truck Plate NUmber  set Truck ID  set Capacity  set Truck Condition  get Truck ID  Truck Database 317  truck ID  get Truck Type  set Truck Type  truck Type  get Truck Condition

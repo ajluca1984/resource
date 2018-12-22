@@ -1,0 +1,1 @@
+ handle Position Change  get Current Position  Map Viewer 372  get Zoom Display directions  set Observe  notify Done  current Position  get Current Map View  final Position  set Final Position  get Final Position  current Position  set Current Position  current Position

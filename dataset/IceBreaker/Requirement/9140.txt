@@ -1,0 +1,1 @@
+When new road sensors are added, the thermal map shall be updated to reflect the new weather data.

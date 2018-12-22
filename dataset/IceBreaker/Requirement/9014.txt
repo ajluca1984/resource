@@ -1,0 +1,1 @@
+Data received from WeatherStations shall be updated regularly

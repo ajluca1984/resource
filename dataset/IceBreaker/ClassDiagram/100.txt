@@ -1,0 +1,1 @@
+ add Help  set Help ID  get Help ID  help Type  Help Database 377  set Help Type  search  help ID  remove Help  get Help Type

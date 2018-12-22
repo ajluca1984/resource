@@ -1,0 +1,1 @@
+validate road sensors functioning correctly transmitting data

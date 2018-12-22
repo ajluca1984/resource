@@ -1,0 +1,1 @@
+pine operates command dos interface windows test requirement  summary activating pine command windows actor precondition computer installed pine windows description clicks windows start menu selects types cmd click types pine activate pine windows post condition pine ready main menu displayed alternatives types command cmd cmd cmd types cmd click enter button

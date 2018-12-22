@@ -1,0 +1,1 @@
+road sensor fails transmit data alert issued

@@ -1,0 +1,1 @@
+﻿ managing feedback specific point refreshments visit pr add a visit to a refreshment insert visit pr modify a visit modify visit pr extract the list of visits to a refreshment extract a visit by a tourist at a refreshment pr extract visits of a tourist  

@@ -1,0 +1,1 @@
+delete message summary selects message deletes mail message actor pine precondition logs pine ucr description displays listing mail messages navigates folder selects message deletes deletes message displays listing remaining messages alternatives select message deleting displays message select message post condition selected message deleted

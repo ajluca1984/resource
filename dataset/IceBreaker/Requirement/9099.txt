@@ -1,0 +1,1 @@
+All screens shall comply with standardized look-and-feel style sheets.

@@ -1,0 +1,1 @@
+address book entry viewing ua summary views entry address book actor pine precondition pine running address book displayed description select view address book entry fields contacts email address street apt office city zip phone alternatives address book entries exist entries displayed adds entry

@@ -1,0 +1,1 @@
+ date  forecast History  get WeatherStation ID  set WeatherStation ID  WeatherStation ID  validate Reading  station ID  time  handle Reading Range  forecast History  set Forecast History  get Forecast History  get Time  set Time  set Date  get Date  WeatherStation Maintenance 374

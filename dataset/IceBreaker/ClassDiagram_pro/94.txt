@@ -1,0 +1,1 @@
+handle position change current position map viewer zoom display directions set observe notify current position current map view final position set final position final position current position set current position current position

@@ -1,0 +1,1 @@
+add map reading add road composition add temperature reading add humidity reading add precipitation reading district location road district set road road add forecast district data district location set district district data reading set data reading data reading set district location

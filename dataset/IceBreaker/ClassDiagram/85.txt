@@ -1,0 +1,1 @@
+ current Position  WorkOrder ID  set WorkOrder ID  get WorkOrder ID  display WorkOrder Status  set Current Position  get Current Position  truck Location  truck ID  get Truck ID  set Truck ID  get Truck Location  Truck Breakdown Alert 381  set Truck Location  display Alert  display Truck Position

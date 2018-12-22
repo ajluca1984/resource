@@ -1,0 +1,1 @@
+Product shall produce report status for the selected data

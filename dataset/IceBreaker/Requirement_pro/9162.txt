@@ -1,0 +1,1 @@
+validate weather stations transmitting data regularly scheduled transmissions

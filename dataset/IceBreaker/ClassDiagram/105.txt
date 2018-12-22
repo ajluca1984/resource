@@ -1,0 +1,1 @@
+ monthly Forecast  set Monthly Forecast  get Daily Forecast  Weather Forecast Database 315  get Hourly Forecast  set Hourly Forecast  hourly Forecast  get Weekly Forecast  weekly Forecast  get Monthly Forecast  set Daily Forecast  daily Forecast  get Ten Day Forecast  set Ten Day Forecast  set Weekly Forecast  ten Day Forecast

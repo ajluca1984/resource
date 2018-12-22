@@ -1,0 +1,1 @@
+Truck capabilities shall be maintained for each type of truck.

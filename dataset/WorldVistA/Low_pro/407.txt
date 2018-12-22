@@ -1,0 +1,1 @@
+associate permissions access controls userbased access rights assigned rolebased users access rights assigned contextbased rolebased additional access rights assigned restricted based context transaction timeofday workstationlocation emergencymode

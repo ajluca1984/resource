@@ -1,0 +1,1 @@
+add addresses summary captures addresses received mail actor pine precondition logs pine ucr description displays listing mail navigates personal address book address book addresses received mail post condition addresses received mail personal address book

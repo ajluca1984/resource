@@ -1,0 +1,1 @@
+provide access view print patient data previous admissions document type reason access

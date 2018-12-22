@@ -1,0 +1,1 @@
+A warning shall be issued if the scheduled de-icing date is further than one day in the future.

@@ -1,0 +1,1 @@
+ set Length  location  set Location  get Location  road Section ID  set Road Section ID  Road Section 324 Get Current freezing status  length Set freezing conditions  get Length  get Road Section ID

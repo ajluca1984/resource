@@ -1,0 +1,1 @@
+ requirements reply email summary select email reply sender actor pine precondition mail test reply address exists inbox description selects inbox selects mail test reply pine displays content mail add contents mail selects reply mail pine sends mail sender pine embeds date timestamp mail alternative selects cancel replies email pine reply mail save post condition email replied

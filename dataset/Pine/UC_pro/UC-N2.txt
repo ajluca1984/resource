@@ -1,0 +1,1 @@
+navigate folders summary evokes pine navigates folders short cut actor pine precondition logs pine ucn description displays message listing messages folder including status read unread sender size subject navigates folders listing mail folder hits ctrl previous screen alternatives folder messages display message messages folder post condition previous hitting ctrl

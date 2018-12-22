@@ -1,0 +1,1 @@
+WeatherStations data shall be managed through a weather data GUI

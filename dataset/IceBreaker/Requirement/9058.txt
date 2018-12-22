@@ -1,0 +1,1 @@
+An alert shall be issued if a dispatched truck breaks down.

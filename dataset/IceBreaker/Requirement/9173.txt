@@ -1,0 +1,1 @@
+Departmental clerks shall have access to inventory, WorkOrders, truck tracking, and schedules.

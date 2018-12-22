@@ -1,0 +1,1 @@
+display message listing messages folder including status readunread sender size subject

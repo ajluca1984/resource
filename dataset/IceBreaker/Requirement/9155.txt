@@ -1,0 +1,1 @@
+Inventory shall be decremented to reflect the de-icing materials assigned to the WorkOrder.

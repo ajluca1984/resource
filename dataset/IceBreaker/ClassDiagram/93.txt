@@ -1,0 +1,1 @@
+ current Position  Map Controller 373  update Model  get Current Map View  get Current Position  set Current Position  get Map

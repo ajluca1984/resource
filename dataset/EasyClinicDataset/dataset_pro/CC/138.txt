@@ -1,0 +1,1 @@
+guieliminaprenotazione description mask management reservations attributes access description btnannulla button cancel delete visit gridelencoprenotaz list active patient methods visualizzaelencoprenotazioni access description display list reservations patient eliminaprenotazione access description task realization guieliminaprenotazione

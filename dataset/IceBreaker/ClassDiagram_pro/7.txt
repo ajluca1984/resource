@@ -1,0 +1,1 @@
+report add humidity add precipitation close report set time add air temperature time set report report set time weather station set weather station weather station weather station report add road temperature

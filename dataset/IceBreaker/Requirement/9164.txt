@@ -1,0 +1,1 @@
+If a WeatherStation fails to transmit data an alert shall be issued.

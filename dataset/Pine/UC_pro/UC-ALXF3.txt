@@ -1,0 +1,1 @@
+move folders   summary moves folders actor precondition main menu displayed default folders description presses folder list presses arrow highlight desired folder presses enter key post condition folders contents displayed alternatives press enter select folder selects folder press folder list

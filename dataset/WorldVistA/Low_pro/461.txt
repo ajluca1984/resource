@@ -1,0 +1,1 @@
+provide create outpatient prescriptions durable items equipment require prescriptions

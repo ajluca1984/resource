@@ -1,0 +1,1 @@
+Administrators shall have access to all modules.

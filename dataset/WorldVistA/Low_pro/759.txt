@@ -1,0 +1,1 @@
+record time minute consent refusal deferral status relates administration immunization time encounter including discrete data elements decision decider status decider parent legal guardian medical power attorney datetimes event refusal immunization recording multiple discrete reasons vaccine refusal

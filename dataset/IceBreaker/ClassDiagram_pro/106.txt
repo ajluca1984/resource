@@ -1,0 +1,1 @@
+weather forecast gui set forecast history handle critical forecast forecast input

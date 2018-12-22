@@ -1,0 +1,1 @@
+Truck data shall be managed through a truck GUI.

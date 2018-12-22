@@ -1,0 +1,1 @@
+The product list shall be stored in uncompressed format.

@@ -1,0 +1,1 @@
+The system shall report on road temperature readings.

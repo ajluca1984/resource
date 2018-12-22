@@ -1,0 +1,1 @@
+If a WeatherStation goes offline for over one hour than the system shall infer weather conditions for its coverage area from the data received from adjacent WeatherStations.

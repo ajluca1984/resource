@@ -1,0 +1,1 @@
+provide select details including strength route frequency comments

@@ -1,0 +1,1 @@
+Weather data shall be backed up in secondary storage.

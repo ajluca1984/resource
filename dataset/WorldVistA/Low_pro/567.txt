@@ -1,0 +1,1 @@
+send current medication list discharge medications patient medications medications prescribed discharge outpatient documentation sources physicians office 	electronic medical record health exchange hienetwork

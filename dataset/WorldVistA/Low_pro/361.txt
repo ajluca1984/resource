@@ -1,0 +1,1 @@
+provide document display vital sign measurements collected current patient encounter

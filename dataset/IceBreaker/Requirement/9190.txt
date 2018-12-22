@@ -1,0 +1,1 @@
+Road sections shall be assigned to road sensors.

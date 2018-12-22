@@ -1,0 +1,1 @@
+guiselezionaprenotazione description permit mask operator select reservations attributes access description btnselezionaprenota button confirm options selection methods selezionaprenotazioni access description retrieval realization guiselezionaprenotazioni

@@ -1,0 +1,1 @@
+authenticate access protected resources 	protected health information allowed including connected network mobile devices

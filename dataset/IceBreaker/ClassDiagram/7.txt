@@ -1,0 +1,1 @@
+ get Report ID  add Humidity  add Precipitation  close Report  set Date  get Time  add Air Temperature  time  get Date  set Report ID  report ID  set Time  WeatherStation ID  set WeatherStation ID  get WeatherStation ID  WeatherStation Report 302  date  add Road Temperature

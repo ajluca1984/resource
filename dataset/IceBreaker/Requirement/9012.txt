@@ -1,0 +1,1 @@
+Weather forecasts shall be updated as received by the weather bureau.

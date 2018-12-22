@@ -1,0 +1,1 @@
+Road maps shall be automatically validated against standardized digital maps.

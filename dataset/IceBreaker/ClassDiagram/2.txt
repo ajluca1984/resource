@@ -1,0 +1,1 @@
+ set Station ID  humidity  set Humidity  get Humidity  precipitation  set Precipitation  get Precipitation  air Temperature  set Air Temperature  station ID  create Weather Report  get Station ID  WeatherStation Database 314  get Air Temperature

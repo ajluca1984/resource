@@ -1,0 +1,1 @@
+ get Dispatched Truck  driver ID  get Truck  set Truck  truck  update List  get Available Truck  add Truck  set Driver ID  remove Truck  set List Number  get Out Of Service Truck  get Driver ID  get List Number  list Number  get WorkOrder ID  set WorkOrder ID  WorkOrder ID  get Date  set Date  date  Truck List 321

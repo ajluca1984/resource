@@ -1,0 +1,1 @@
+PurchaseOrders shall be automatically generated when de-icing material stocks fall under a predetermined limit.

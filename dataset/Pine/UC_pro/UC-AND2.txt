@@ -1,0 +1,1 @@
+save email messages attachments externally ur summary instructs save message attachment actor pine precondition pine started email displayed description selects save message attachment menu selects location external saved file file stored location alternatives selected save attachment exists happen selected nonexistent readonly save location instance prompt cancel

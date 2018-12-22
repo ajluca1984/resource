@@ -1,0 +1,1 @@
+folders allowed stored locally remote hosts

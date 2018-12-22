@@ -1,0 +1,1 @@
+Users shall be authenticated via a valid password and user name combination

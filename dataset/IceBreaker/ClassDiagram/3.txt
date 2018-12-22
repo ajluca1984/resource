@@ -1,0 +1,1 @@
+ station ID  station Name  get Station Location  set Station Location  station Location  update Directory  station ID station Name  add WeatherStation  remove WeatherStation  set Station Name  get Station Name Latest update time  get Station ID set last Update Received  set Station ID  WeatherStation Directory 341

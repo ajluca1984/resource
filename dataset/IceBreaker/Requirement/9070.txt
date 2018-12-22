@@ -1,0 +1,1 @@
+Weather data shall be stored in secondary storage.

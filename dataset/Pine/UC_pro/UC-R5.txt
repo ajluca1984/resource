@@ -1,0 +1,1 @@
+print message summary selects message prints mail message actor pine precondition logs pine ucr description displays listing mail messages navigates folder selects message opts print prints message printer alternatives select message printing displays message select message post condition selected message printed

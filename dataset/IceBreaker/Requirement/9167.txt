@@ -1,0 +1,1 @@
+If de-icing material is unused and returned to the depot, then the inventory shall be incremented to reflect the return.

@@ -1,0 +1,1 @@
+ WeatherStation GUI 340  print Report  display Input  get Manual Reading

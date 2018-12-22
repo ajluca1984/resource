@@ -1,0 +1,1 @@
+provide capture immunization administration details discrete data including immunization type dose time administration route site lot expiration manufacturer

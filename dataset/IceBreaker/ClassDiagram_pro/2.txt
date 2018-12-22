@@ -1,0 +1,1 @@
+set station humidity set humidity humidity precipitation set precipitation precipitation air temperature set air temperature station create weather report station weather station database air temperature

@@ -1,0 +1,1 @@
+map reading remove road sensor add road sensor set map reading map reading set road sensor road sensor thermal map database update thermal map road sensor

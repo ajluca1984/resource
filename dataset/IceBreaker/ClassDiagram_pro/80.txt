@@ -1,0 +1,1 @@
+alert gui display alert time time set alert typeset alert type alert typeset time

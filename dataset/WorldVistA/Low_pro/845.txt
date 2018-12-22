@@ -1,0 +1,1 @@
+provide associate type including medication clinical diagnosis codes description

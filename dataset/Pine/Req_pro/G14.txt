@@ -1,0 +1,1 @@
+select multiple message folders perform aggregate operations delete list messages move messages folder

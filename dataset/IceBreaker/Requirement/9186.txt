@@ -1,0 +1,1 @@
+Contact information shall be managed through a contact TUI

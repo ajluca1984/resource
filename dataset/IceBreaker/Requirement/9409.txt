@@ -1,0 +1,1 @@
+The system shall maintain a current list of valid WeatherStations.

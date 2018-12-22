@@ -1,0 +1,1 @@
+The weather monitor shall accept readings from valid WeatherStations.

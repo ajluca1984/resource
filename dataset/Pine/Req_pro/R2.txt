@@ -1,0 +1,1 @@
+support download read news sources support nntp imap

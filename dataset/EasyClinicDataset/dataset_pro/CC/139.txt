@@ -1,0 +1,1 @@
+guielencoprenotazioni description abstract define guieliminaprenotazione classes guiselezionaprenotazione attributes access description btnannulla button cancel current operation gridprenotazioni grid list reservations active set patient methods notificasuccesso access description task notify success

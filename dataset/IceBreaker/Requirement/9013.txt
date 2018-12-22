@@ -1,0 +1,1 @@
+All weather data shall be validated on receipt

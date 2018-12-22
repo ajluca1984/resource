@@ -1,0 +1,1 @@
+Users shall not be able to access a main server while  maintenance is in progress

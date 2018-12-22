@@ -1,0 +1,1 @@
+﻿ the management of news news insert news modify news deleted news active news get news 

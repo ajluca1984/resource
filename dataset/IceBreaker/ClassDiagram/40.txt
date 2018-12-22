@@ -1,0 +1,1 @@
+ add Map Reading  add Road Composition  add Temperature Reading  add Humidity Reading  add Precipitation Reading  district Location  get Road Section  district ID  set Road Section  road Section  add Forecast  District Data 332  get District Location  set District ID  get District ID  data Reading  set Data Reading  get Data Reading  set District Location

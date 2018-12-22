@@ -1,0 +1,1 @@
+ requirements summary check tips explanation items actor pine precondition logged pine description selects address book select menu explanation address book selects folder structure tree press control explanation folder selects interface displaying mail select menu explanation text based interface alternatives post condition provided tips explanations

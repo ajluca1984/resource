@@ -1,0 +1,1 @@
+Weather forecasts data history shall be recorded.

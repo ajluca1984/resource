@@ -1,0 +1,1 @@
+user login and logout register authentication type of users authenticate a registered user login 

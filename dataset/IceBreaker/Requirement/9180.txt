@@ -1,0 +1,1 @@
+Completed route sections shall be clearly displayed on the onboard map.

@@ -1,0 +1,1 @@
+ get Forecast  add Forecast  set Forecast  time  set Time  get Time  date  set Date  get Date  Historical Forecast Database 366  forecast

@@ -1,0 +1,1 @@
+﻿ management of eateries refreshment point add a refreshment insert refreshment modify a refreshment delete a refreshment point of comfort with the id given as argument point of refreshment advanced search number of elements to search. get advanced search item number research. elements for an advanced search. refreshment get pr list 

@@ -1,0 +1,1 @@
+The system shall display a thermal map of the district showing temperatures of each road section.

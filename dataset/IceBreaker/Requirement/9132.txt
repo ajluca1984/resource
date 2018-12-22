@@ -1,0 +1,1 @@
+The inventory shall be indexed according to common retrieval keys.

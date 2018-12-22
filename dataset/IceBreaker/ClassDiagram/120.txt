@@ -1,0 +1,1 @@
+ get Temperature Reading  Norms 378  validate Against Norms  get Road Sensor Reading  set Road Sensor Reading  road Sensor Reading  temperature Reading  set Temperature Reading

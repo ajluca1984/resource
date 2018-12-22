@@ -1,0 +1,1 @@
+provide receive store patients record display discrete lab received electronic interface

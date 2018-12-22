@@ -1,0 +1,1 @@
+weather station fails transmit data alert issued

@@ -1,0 +1,1 @@
+pazientemanager description task manage operations require access personal data patients attributes access description methods editpaziente access description manages updating data patient findpaziente access description checks patient getdatipaziente access description task relating personal data patient newpaziente access description task create patient

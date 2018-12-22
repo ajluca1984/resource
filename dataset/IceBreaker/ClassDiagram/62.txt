@@ -1,0 +1,1 @@
+ map Reading  remove Road Sensor  add Road Sensor  set Map Reading  get Map Reading  set Road Sensor  get Road Sensor  Thermal Map Database 318  update Thermal Map  road Sensor
