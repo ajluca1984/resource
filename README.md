@@ -2,5 +2,5 @@
 # resource
 =======
 # resource
-QQ (query quality) features and datasets
+Traceability datasets
 >>>>>>> commit
